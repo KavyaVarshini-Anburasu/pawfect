@@ -17,5 +17,5 @@ The app features an interactive swipe-based system where users can explore other
 - please have the X-Code installed or any other IDE that works for Swift language. 
 - Clone this repository:
 ```bash
-git clone https://github.com/Hidhayath-Nisha/pawfect.git
+git clone https://github.com/KavyaVarshini-Anburasu/pawfect
 
